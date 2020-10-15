@@ -1,16 +1,13 @@
-### hi there 🤘
+<p align="center">
+  <a href="https://www.linkedin.com/in/antonylemos/">
+    <img align="center" src="background.png" />
+  </a>
+</p>
 
-<!--
-**antonylemos/antonylemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Mobile** [@Multiprova](https://site.multiprova.ufrn.br/)
 
-Here are some ideas to get you started:
+> Escrevendo códigos em meio a uma bagunça existencial e organizada 🌵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apaixonado por programação e me especializando cada vez no ecossistema Javascript ⚡
+
+---
